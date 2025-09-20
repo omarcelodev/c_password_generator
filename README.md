@@ -21,14 +21,15 @@ Conta também com salvamento em arquivo `.txt`, cópia direta para a área de tr
 Para compilar, use o `gcc`:
 
 ```bash
-gcc main.c -o gerador_senhas
+gcc password.c -o password.exe
 ```
 ## ▶️ Uso
 
 Execute o programa:
 
 ```bash
-./gerador_senhas
+password.exe
+./password
 ```
 Depois, basta seguir as instruções no terminal.
 
