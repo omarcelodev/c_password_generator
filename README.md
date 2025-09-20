@@ -67,7 +67,11 @@ Sugestões e melhorias são muito bem-vindas!
 
 Este projeto está sob a licença MIT.
   
-
+![Menu do programa](assets/menu.png)
+![Personalização da senha](assets/personalizacao.png)
+![Opções após gerar senha](assets/opcoes.png)
+![Exemplo de arquivo senhas.txt](assets/arquivo1.png)
+![Exemplo de arquivo senhas.txt](assets/arquivo2.png)
 
   
 
