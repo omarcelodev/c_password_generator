@@ -15,6 +15,22 @@ Conta também com salvamento em arquivo `.txt`, cópia direta para a área de tr
 - Interface simples e interativa no terminal.
 
 ---
+## 📸 Capturas de Tela
+
+### 1. Menu Inicial
+![Menu do programa](assets/menu.png)
+
+### 2. Personalização da Senha
+![Personalização da senha](assets/personalizacao.png)
+
+### 3. Senha Gerada + Medidor de Força + Opções Após Gerar a Senha
+![Opções após gerar senha](assets/opcoes.png)
+
+### 5. Exemplo de Arquivo `senhas.txt`
+![Exemplo de arquivo senhas.txt](assets/arquivo1.png)
+![Exemplo de arquivo senhas.txt](assets/arquivo2.png)
+
+---
 
 ## 🛠️ Compilação
 
@@ -67,11 +83,6 @@ Sugestões e melhorias são muito bem-vindas!
 
 Este projeto está sob a licença MIT.
   
-![Menu do programa](assets/menu.png)
-![Personalização da senha](assets/personalizacao.png)
-![Opções após gerar senha](assets/opcoes.png)
-![Exemplo de arquivo senhas.txt](assets/arquivo1.png)
-![Exemplo de arquivo senhas.txt](assets/arquivo2.png)
 
   
 
